@@ -1,7 +1,3 @@
-Here's a sample `README.md` text for the Sales Prediction Using Python project:
-
----
-
 # Sales Prediction Using Python
 
 ## Project Overview
